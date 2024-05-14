@@ -1,0 +1,39 @@
+master bedroom with bathroom,1,400
+master bedroom with bathroom,2,600
+master bedroom with bathroom,3,800
+lounge area,1,500
+lounge area,2,700
+lounge area,3,900
+kitchen,1,300
+kitchen,2,400
+kitchen,3,500
+study,1,400
+study,2,500
+study,3,600
+bathroom,1,200
+bathroom,2,300
+bathroom,3,400
+guest room with bathroom,1,300
+guest room with bathroom,2,500
+guest room with bathroom,3,700
+regular bedroom with bathroom,1,300
+regular bedroom with bathroom,2,500
+regular bedroom with bathroom,3,700
+bedroom without bathroom,1,200
+bedroom without bathroom,2,400
+bedroom without bathroom,3,600
+drawing room,1,500
+drawing room,2,600
+drawing room,3,700
+balcony,1,100
+balcony,2,200
+balcony,3,300
+store,1,100
+store,2,200
+store,3,300
+garage,1,300
+garage,2,400
+garage,3,500
+dirty kitchen,1,100
+dirty kitchen,2,200
+dirty kitchen,3,300

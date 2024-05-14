@@ -1,0 +1,33 @@
+Jython: Python for the Java Platform
+------------------------------------
+
+Welcome to Jython 2.7.3.
+
+This is a final release of version 2.7.3 of Jython.
+
+Along with language and runtime compatibility with CPython 2.7, Jython 2.7
+provides substantial support of the Python ecosystem. This includes built-in
+support of pip/setuptools (you can use with bin/pip) and a native launcher
+for Windows (bin/jython.exe).
+
+Jim Baker presented a talk at PyCon 2015 about Jython 2.7, including demos
+of new features: https://www.youtube.com/watch?v=hLm3garVQFo
+
+This release was compiled on Windows 10 using Oracle Corporation Java
+version 1.8.0_321 and requires a minimum of Java 1.8 to run.
+
+See LICENSE.txt for details about Jython's copyright and license, and NEWS
+for detailed release notes, including bugs fixed, backward breaking changes,
+and new features.
+
+The developers extend their thanks to all who contributed to this release
+of Jython, through bug reports, patches, pull requests, documentation
+changes, email and conversation in any media. See ACKNOWLEDGMENTS for a
+list of contributors. We are grateful to the PSF for continuing practical
+help and support of the project.
+
+Bug Reports
+-----------
+
+Please report reproducible failures at https://github.com/jython/jython/issues .
+

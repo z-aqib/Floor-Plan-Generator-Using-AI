@@ -1,0 +1,39 @@
+Master Bedroom (with bathroom),1,20,25
+Master Bedroom (with bathroom),2,25,25
+Master Bedroom (with bathroom),3,25,30
+Lounge Area,1,20,30
+Lounge Area,2,25,35
+Lounge Area,3,25,40
+Kitchen,1,6,8
+Kitchen,2,8,12
+Kitchen,3,10,14
+Study,1,10,12
+Study,2,12,18
+Study,3,15,20
+Bathroom,1,8,10
+Bathroom,2,10,15
+Bathroom,3,12,15
+Guest Room (with bathroom),1,18,20
+Guest Room (with bathroom),2,20,25
+Guest Room (with bathroom),3,22,35
+Regular Bedroom (with bathroom),1,15,20
+Regular Bedroom (with bathroom),2,18,18
+Regular Bedroom (with bathroom),3,25,30
+Regular Bedroom (without bathroom),1,12,18
+Regular Bedroom (without bathroom),2,15,20
+Regular Bedroom (without bathroom),3,20,25
+Drawing Room,1,15,30
+Drawing Room,2,20,30
+Drawing Room,3,25,35
+Balcony,1,6,12
+Balcony,2,10,12
+Balcony,3,15,20
+Store,1,10,10
+Store,2,10,15
+Store,3,15,15
+Garage,1,10,12
+Garage,2,15,20
+Garage,3,20,25
+Dirty Kitchen,1,4,6
+Dirty Kitchen,2,6,8
+Dirty Kitchen,3,8,10
