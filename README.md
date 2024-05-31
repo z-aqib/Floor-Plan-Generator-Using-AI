@@ -5,4 +5,4 @@ Simply press "Design" and enter your floor area, your room requirements, their q
 ## How to access this program?
 You can view the demo video here: [youtube.com](https://youtu.be/ZoEkKbJte0w?si=-ceHR9wsWl_z5Azt)
 
-To run this system on your machine, you will have to clone the entire repository and make sure you have both a Python compiler and Java JVM on your machine. After that, run this code on JVM.
+To run this system on your machine, you will have to clone the entire repository and make sure you have both a Python compiler and Java JVM on your machine. After that, run the src code on JVM.
