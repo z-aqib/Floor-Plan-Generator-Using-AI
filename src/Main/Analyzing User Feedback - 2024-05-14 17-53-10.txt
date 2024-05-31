@@ -1,0 +1,27 @@
+File Written on 2024-05-14 17-53-10
+User Ratings on FloorPlans: 
+Balcony,Store,Kitchen,Kitchen,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): Rating = 3
+Balcony,Store,Kitchen,Kitchen,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): Rating = 5
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Kitchen,Kitchen,Store: Rating = 2
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Store,Kitchen,Kitchen: Rating = 3
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Kitchen,Store,Kitchen: Rating = 4
+Balcony,Store,Kitchen,Kitchen,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): Rating = 5
+Balcony,Kitchen,Kitchen,Store,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): Rating = 1
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Kitchen,Kitchen,Store: Rating = 5
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Kitchen,Store,Kitchen: Rating = 4
+Balcony,Kitchen,Kitchen,Store,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): Rating = 3
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Kitchen,Kitchen,Store: Rating = 2
+Balcony,Kitchen,Kitchen,Store,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): Rating = 1
+Balcony,Kitchen,Store,Kitchen,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Store,Kitchen,Kitchen: Rating = 5
+Balcony,Kitchen,Kitchen,Store,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): Rating = 5
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Kitchen,Store,Kitchen: Rating = 5
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Store,Kitchen,Kitchen: Rating = 5
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Kitchen,Store,Kitchen: Rating = 5
+Balcony,Kitchen,Store,Kitchen,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): Rating = 5
+Balcony,Kitchen,Store,Kitchen,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): No rating. 
+Balcony,Store,Kitchen,Kitchen,Study,Guest Room (with bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Guest Room (with bathroom),Master Bedroom (with bathroom),Study,Store,Kitchen,Kitchen: No rating. 
+Balcony,Master Bedroom (with bathroom),Guest Room (with bathroom),Study,Kitchen,Kitchen,Store: No rating. 
+Balcony,Kitchen,Store,Kitchen,Study,Master Bedroom (with bathroom),Guest Room (with bathroom): No rating. 
+Average Rating = 3.7777777777777777

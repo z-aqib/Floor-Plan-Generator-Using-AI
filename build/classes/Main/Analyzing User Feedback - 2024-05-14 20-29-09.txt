@@ -1,0 +1,15 @@
+File Written on 2024-05-14 20-29-09
+User Ratings on FloorPlans: 
+Garage,Lounge Area,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Garage,Kitchen,Regular Bedroom (without bathroom),Lounge Area,Master Bedroom (with bathroom): No rating. 
+Garage,Master Bedroom (with bathroom),Lounge Area,Regular Bedroom (without bathroom),Kitchen: No rating. 
+Garage,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Lounge Area: No rating. 
+Garage,Master Bedroom (with bathroom),Lounge Area,Kitchen,Regular Bedroom (without bathroom): No rating. 
+Garage,Lounge Area,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen: No rating. 
+Garage,Kitchen,Lounge Area,Master Bedroom (with bathroom),Regular Bedroom (without bathroom): No rating. 
+Garage,Regular Bedroom (without bathroom),Kitchen,Lounge Area,Master Bedroom (with bathroom): No rating. 
+Garage,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen,Lounge Area: No rating. 
+Garage,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Lounge Area,Kitchen: No rating. 
+Garage,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Lounge Area,Kitchen: No rating. 
+Garage,Kitchen,Lounge Area,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Average Rating = NaN

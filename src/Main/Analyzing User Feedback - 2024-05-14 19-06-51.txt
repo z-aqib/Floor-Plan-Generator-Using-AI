@@ -1,0 +1,39 @@
+File Written on 2024-05-14 19-06-51
+User Ratings on FloorPlans: 
+Balcony,Bathroom,Regular Bedroom (without bathroom),Kitchen,Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Kitchen,Regular Bedroom (without bathroom),Bathroom: No rating. 
+Balcony,Kitchen,Bathroom,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study: No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Regular Bedroom (without bathroom),Kitchen,Bathroom: No rating. 
+Balcony,Study,Kitchen,Bathroom,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study,Kitchen,Bathroom: No rating. 
+Balcony,Regular Bedroom (without bathroom),Bathroom,Kitchen,Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Bathroom,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen: No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen,Bathroom,Study: No rating. 
+Balcony,Regular Bedroom (without bathroom),Kitchen,Bathroom,Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Study,Bathroom,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Regular Bedroom (without bathroom),Bathroom,Kitchen: No rating. 
+Balcony,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study,Bathroom,Kitchen: No rating. 
+Balcony,Bathroom,Kitchen,Regular Bedroom (without bathroom),Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Bathroom,Kitchen,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom): No rating. 
+Balcony,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen,Bathroom: No rating. 
+Balcony,Bathroom,Kitchen,Study,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Study,Bathroom,Kitchen: No rating. 
+Balcony,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Bathroom,Kitchen: No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Kitchen,Study,Bathroom: No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Bathroom,Regular Bedroom (without bathroom),Kitchen: No rating. 
+Balcony,Kitchen,Study,Bathroom,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Bathroom,Kitchen,Regular Bedroom (without bathroom): No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Study,Kitchen,Bathroom: No rating. 
+Balcony,Kitchen,Regular Bedroom (without bathroom),Bathroom,Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study,Bathroom: No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Bathroom,Kitchen,Study: No rating. 
+Balcony,Master Bedroom (with bathroom),Study,Kitchen,Bathroom,Regular Bedroom (without bathroom): No rating. 
+Balcony,Bathroom,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study,Kitchen: No rating. 
+Balcony,Kitchen,Bathroom,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom): No rating. 
+Balcony,Kitchen,Bathroom,Study,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Bathroom,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom),Study: No rating. 
+Balcony,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Bathroom,Study,Kitchen: No rating. 
+Balcony,Kitchen,Bathroom,Regular Bedroom (without bathroom),Study,Master Bedroom (with bathroom): No rating. 
+Balcony,Bathroom,Study,Kitchen,Regular Bedroom (without bathroom),Master Bedroom (with bathroom): No rating. 
+Balcony,Kitchen,Study,Master Bedroom (with bathroom),Regular Bedroom (without bathroom),Bathroom: No rating. 
+Average Rating = NaN

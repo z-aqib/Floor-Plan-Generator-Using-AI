@@ -1,0 +1,5 @@
+File Written on 2024-05-14 19-57-41
+User Ratings on FloorPlans: 
+Garage,Kitchen,Lounge Area: Rating = 5
+Garage,Lounge Area,Kitchen: Rating = 2
+Average Rating = 3.5
