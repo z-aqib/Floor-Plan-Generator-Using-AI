@@ -7,13 +7,6 @@ import java.awt.image.*;
 
 public class FloorPlanWindow implements WindowInterface {
 
-    // given values
-    private final int totalArea;
-    private final int[] panel;
-    private final String[] floorPlan;
-    private final String[] roomAreas;
-    private final FileReading hashTable;
-
     // computed values 
     private final Room_Button[] roomButtons;
     private double height;
@@ -22,12 +15,6 @@ public class FloorPlanWindow implements WindowInterface {
     private final Point topLeft;
 
     public FloorPlanWindow(int[] screenPanel, String[] floorPlan, String[] rooms, int totalArea, FileReading hashTable) {
-        this.panel = screenPanel;
-        this.floorPlan = floorPlan;
-        this.roomAreas = rooms;
-        this.totalArea = totalArea;
-        this.hashTable = hashTable;
-
         this.roomButtons = new Room_Button[floorPlan.length];
         this.height = (int) Math.sqrt(totalArea);
         this.width = height;
